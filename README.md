@@ -1,0 +1,2 @@
+# Algohack-jam-Hackathon
+This one’s for everyone new to the space - If you’re looking to contribute any idea to the ecosystem by proposing ideas that Algorand can adopt in the future, you’re at the right place. So if you’re looking to learn about the Algorand ecosystem, understand the basic infrastructure of the blockchain, or just contribute the next cool project idea for the chain then this is the track for you.

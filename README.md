@@ -1,2 +1,6 @@
 # Algohack-jam-Hackathon
-This one’s for everyone new to the space - If you’re looking to contribute any idea to the ecosystem by proposing ideas that Algorand can adopt in the future, you’re at the right place. So if you’re looking to learn about the Algorand ecosystem, understand the basic infrastructure of the blockchain, or just contribute the next cool project idea for the chain then this is the track for you.
+With the use IOT Our proposed solution is for Algorand jam developers to create an Algorand Wallet application, which will allow everyone to trade things like buying goods online with that allowing the fluctuation of Algorand to grow. 
+
+From our perspective, this Application should have microfinance, real estate, copyright feature, and more .
+
+Today's world is moving towards digitalization and most business deals are conducted remotely for instance in the world of law they are now able to conduct negotiations virtually. What better way to bring the world together either than having a global decentralized currency.
